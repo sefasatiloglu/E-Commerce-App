@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857140162164",
+    "project_id": "sefasatiloglufinal",
+    "storage_bucket": "sefasatiloglufinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857140162164:android:f4a8377f13411a17d22b21",
+        "android_client_info": {
+          "package_name": "com.example.sefasatiloglufinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5fpHARV9RnQdtoZn5_kaJA8wJQWGFKqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

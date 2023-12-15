@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/phoneUser"
+            android:icon="@drawable/phoneicon"
+            android:title="+9223265612" />
+        <item
+            android:id="@+id/addressUser"
+            android:icon="@drawable/locationicon"
+            android:title="Batiken Mah Cenil Sait Barlas" />
+        <item
+            android:id="@+id/uniUser"
+            android:icon="@drawable/universityicon"
+            android:title="Istinye University" />
+        <item
+            android:id="@+id/depUser"
+            android:icon="@drawable/departmenticon"
+            android:title="SoftWare Engineer" />
+    </group>
+</menu>
